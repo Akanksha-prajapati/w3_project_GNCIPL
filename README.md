@@ -40,47 +40,6 @@ The complete analysis is implemented in:
 
 ---
 
-## 🚀 **How to Run**
-```bash
-# 1️⃣ Clone this repository
-git clone https://github.com/Akanksha-prajapati/w3_project_GNCIPL.git
-cd w3_project_GNCIPL
-
-# 2️⃣ Install dependencies
-pip install -r requirements.txt
-
-# 3️⃣ Open the notebook
-jupyter notebook "Segmentation of Credit Card Customers.ipynb"
-💡 Key Insights (Example – replace with real findings)
-🏆 Cluster 1: High-spending, loyal customers → Target with premium rewards.
-
-📉 Cluster 2: Low-balance, late-payers → Offer financial literacy programs.
-
-📊 Cluster 3: Average spenders with good payment records → Maintain with loyalty offers.
-
-📁 Project Structure
-Copy
-Edit
-w3_project_GNCIPL/
-├── Segmentation of Credit Card Customers.ipynb
-├── requirements.txt
-└── README.md
-📜 License
-This project is licensed under the MIT License ✅ – free to use, share, and modify.
-
-yaml
-Copy
-Edit
-
----
-
-If you want, I can **add a header banner image with gradient colors and your project title** so that when someone opens your repo, it feels like a data science portfolio piece.  
-
-Do you want me to make that banner for you?
-
-
-
-
 
 
 
